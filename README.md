@@ -7,6 +7,8 @@ This is simple Backend project to IoT demo App
 1. `GET /api/devices`: This endpoint returns a list of all IoT devices.
 2. `GET /api/devices/{id}`: This endpoint returns details of a specific IoT device.
 
+#### Please replace `{id}` with the actual ID of the IoT device.
+
 We will soon add this features: 
 
 3. `POST /api/devices`: This endpoint allows you to add a new IoT device.
