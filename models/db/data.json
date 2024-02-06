@@ -1,0 +1,243 @@
+[
+    {
+      "id": "1",
+      "name": "Device 1",
+      "mobileNumber": "123456789",
+      "lastConnection": "2024-02-06T12:00:00Z",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "id": "2",
+      "name": "Device 2",
+      "mobileNumber": "987654321",
+      "lastConnection": "2024-02-05T12:00:00Z",
+      "latitude": 41.3851,
+      "longitude": 2.1734
+    },
+    {
+      "id": "3",
+      "name": "Device 3",
+      "mobileNumber": "555555555",
+      "lastConnection": "2024-02-06T10:30:00Z",
+      "latitude": 39.4699,
+      "longitude": -0.3763
+    },
+    {
+      "id": "4",
+      "name": "Device 4",
+      "mobileNumber": "666666666",
+      "lastConnection": "2024-02-04T09:45:00Z",
+      "latitude": 28.4593,
+      "longitude": -16.2630
+    },
+    {
+      "id": "5",
+      "name": "Device 5",
+      "mobileNumber": "777777777",
+      "lastConnection": "2024-02-06T08:00:00Z",
+      "latitude": 28.1310,
+      "longitude": -15.4461
+    },
+    {
+      "id": "6",
+      "name": "Device 6",
+      "mobileNumber": "888888888",
+      "lastConnection": "2024-02-05T13:15:00Z",
+      "latitude": 28.1248,
+      "longitude": -15.4300
+    },
+    {
+      "id": "7",
+      "name": "Device 7",
+      "mobileNumber": "999999999",
+      "lastConnection": "2024-02-04T11:30:00Z",
+      "latitude": 28.1486,
+      "longitude": -15.4489
+    },
+    {
+      "id": "8",
+      "name": "Device 8",
+      "mobileNumber": "1010101010",
+      "lastConnection": "2024-02-06T14:45:00Z",
+      "latitude": 28.1288,
+      "longitude": -15.4328
+    },
+    {
+      "id": "9",
+      "name": "Device 9",
+      "mobileNumber": "1212121212",
+      "lastConnection": "2024-02-05T16:00:00Z",
+      "latitude": 28.1223,
+      "longitude": -15.4365
+    },
+    {
+      "id": "10",
+      "name": "Device 10",
+      "mobileNumber": "1313131313",
+      "lastConnection": "2024-02-06T17:30:00Z",
+      "latitude": 28.1215,
+      "longitude": -15.4322
+    },
+    {
+      "id": "11",
+      "name": "Device 11",
+      "mobileNumber": "1414141414",
+      "lastConnection": "2024-02-05T18:45:00Z",
+      "latitude": 28.1286,
+      "longitude": -15.4310
+    },
+    {
+      "id": "12",
+      "name": "Device 12",
+      "mobileNumber": "1515151515",
+      "lastConnection": "2024-02-04T20:00:00Z",
+      "latitude": 28.1218,
+      "longitude": -15.4475
+    },
+    {
+      "id": "13",
+      "name": "Device 13",
+      "mobileNumber": "1616161616",
+      "lastConnection": "2024-02-06T22:15:00Z",
+      "latitude": 28.1220,
+      "longitude": -15.4390
+    },
+    {
+      "id": "14",
+      "name": "Device 14",
+      "mobileNumber": "1717171717",
+      "lastConnection": "2024-02-05T00:30:00Z",
+      "latitude": 28.1202,
+      "longitude": -15.4306
+    },
+    {
+      "id": "15",
+      "name": "Device 15",
+      "mobileNumber": "1818181818",
+      "lastConnection": "2024-02-07T01:45:00Z",
+      "latitude": 28.1193,
+      "longitude": -15.4378
+    },
+    {
+      "id": "16",
+      "name": "Device 16",
+      "mobileNumber": "1919191919",
+      "lastConnection": "2024-02-05T03:00:00Z",
+      "latitude": 28.1181,
+      "longitude": -15.4374
+    },
+    {
+      "id": "17",
+      "name": "Device 17",
+      "mobileNumber": "2020202020",
+      "lastConnection": "2024-02-07T04:15:00Z",
+      "latitude": 28.1197,
+      "longitude": -15.4362
+    },
+    {
+      "id": "18",
+      "name": "Device 18",
+      "mobileNumber": "2121212121",
+      "lastConnection": "2024-02-05T05:30:00Z",
+      "latitude": 28.1245,
+      "longitude": -15.4312
+    },
+    {
+      "id": "19",
+      "name": "Device 19",
+      "mobileNumber": "2222222222",
+      "lastConnection": "2024-02-07T06:45:00Z",
+      "latitude": 28.1226,
+      "longitude": -15.4346
+    },
+    {
+      "id": "20",
+      "name": "Device 20",
+      "mobileNumber": "2323232323",
+      "lastConnection": "2024-02-05T08:00:00Z",
+      "latitude": 28.1217,
+      "longitude": -15.4317
+    },
+    {
+      "id": "21",
+      "name": "Device 21",
+      "mobileNumber": "2424242424",
+      "lastConnection": "2024-02-07T09:15:00Z",
+      "latitude": 28.1235,
+      "longitude": -15.4372
+    },
+    {
+      "id": "22",
+      "name": "Device 22",
+      "mobileNumber": "2525252525",
+      "lastConnection": "2024-02-05T10:30:00Z",
+      "latitude": 28.1188,
+      "longitude": -15.4353
+    },
+    {
+      "id": "23",
+      "name": "Device 23",
+      "mobileNumber": "2626262626",
+      "lastConnection": "2024-02-07T11:45:00Z",
+      "latitude": 28.1239,
+      "longitude": -15.4369
+    },
+    {
+      "id": "24",
+      "name": "Device 24",
+      "mobileNumber": "2727272727",
+      "lastConnection": "2024-02-05T13:00:00Z",
+      "latitude": 28.1243,
+      "longitude": -15.4395
+    },
+    {
+      "id": "25",
+      "name": "Device 25",
+      "mobileNumber": "2828282828",
+      "lastConnection": "2024-02-07T14:15:00Z",
+      "latitude": 28.1211,
+      "longitude": -15.4340
+    },
+    {
+      "id": "26",
+      "name": "Device 26",
+      "mobileNumber": "2929292929",
+      "lastConnection": "2024-02-05T15:30:00Z",
+      "latitude": 28.1219,
+      "longitude": -15.4357
+    },
+    {
+      "id": "27",
+      "name": "Device 27",
+      "mobileNumber": "3030303030",
+      "lastConnection": "2024-02-07T16:45:00Z",
+      "latitude": 28.1252,
+      "longitude": -15.4359
+    },
+    {
+      "id": "28",
+      "name": "Device 28",
+      "mobileNumber": "3131313131",
+      "lastConnection": "2024-02-05T18:00:00Z",
+      "latitude": 28.1215,
+      "longitude": -15.4382
+    },
+    {
+      "id": "29",
+      "name": "Device 29",
+      "mobileNumber": "3232323232",
+      "lastConnection": "2024-02-07T19:15:00Z",
+      "latitude": 28.1255,
+      "longitude": -15.4373
+    },
+    {
+      "id": "30",
+      "name": "Device 30",
+      "mobileNumber": "3333333333",
+      "lastConnection": "2024-02-05T20:30:00Z",
+      "latitude": 28.1208,
+      "longitude": -15.4363
+    }
+  ]
+  
